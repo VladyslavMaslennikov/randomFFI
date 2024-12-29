@@ -1,0 +1,6 @@
+framework module randomFFI {
+  umbrella header "randomFFI.h"
+  export *
+
+  module * { export * }
+}

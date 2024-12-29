@@ -1,0 +1,99 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "randomFFI",
+    "printedName": "randomFFI",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "randomFFI",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Function",
+        "name": "getRandomNumber",
+        "printedName": "getRandomNumber()",
+        "children": [
+          {
+            "kind": "TypeNominal",
+            "name": "UInt32",
+            "printedName": "Swift.UInt32",
+            "usr": "s:s6UInt32V"
+          }
+        ],
+        "declKind": "Func",
+        "usr": "s:9randomFFI15getRandomNumbers6UInt32VyF",
+        "mangledName": "$s9randomFFI15getRandomNumbers6UInt32VyF",
+        "moduleName": "randomFFI",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "funcSelfKind": "NonMutating"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/vladyslav\/Desktop\/SwiftUI\/randomFFI\/randomFFI\/random.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9053,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vladyslav\/Desktop\/SwiftUI\/randomFFI\/randomFFI\/random.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9090,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vladyslav\/Desktop\/SwiftUI\/randomFFI\/randomFFI\/random.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9138,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vladyslav\/Desktop\/SwiftUI\/randomFFI\/randomFFI\/random.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9179,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/vladyslav\/Desktop\/SwiftUI\/randomFFI\/randomFFI\/random.swift",
+      "kind": "Dictionary",
+      "offset": 12511,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vladyslav\/Desktop\/SwiftUI\/randomFFI\/randomFFI\/random.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12587,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vladyslav\/Desktop\/SwiftUI\/randomFFI\/randomFFI\/random.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15935,
+      "length": 2,
+      "value": "26"
+    },
+    {
+      "filePath": "\/Users\/vladyslav\/Desktop\/SwiftUI\/randomFFI\/randomFFI\/random.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16306,
+      "length": 5,
+      "value": "50454"
+    }
+  ]
+}
